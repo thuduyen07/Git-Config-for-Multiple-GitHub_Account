@@ -1,8 +1,8 @@
 # Config Git Bash for Multiple GitHub Accounts
 
-##Note: 
+## Note: 
 - Should config in local for each repo
-- Can solve the error: "Permission to <github-repo> denied to <username>"
+- Can solve the error: "Permission to _github-repo_ denied to _username_"
 
 ## Steps 
 _Note: All these commands work for working local repo_ 
