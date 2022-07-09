@@ -8,8 +8,8 @@
 _Note: All these commands work for working local repo_ 
 1. Check the git config in local: `git config --local --list`
 2. Config these things:
-    - user name: `git config user.name "your-name"`
-    - user email: `git config user.email "your-email"`
+    - user name: `git config user.name "thuduyen07"`
+    - user email: `git config user.email "thuduyen07@gmail.com"`
     - Windows Credential Manager(WCM): `git config credential.helper wincred`
     - Enable WCM for multiple credential: `git config credential.useHttpPath true`
 3. Restart for applying
